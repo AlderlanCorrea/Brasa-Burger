@@ -10,7 +10,7 @@ O projeto foi criado com foco em **design, experiência do usuário e conversão
 
 ## 📸 Preview
 
-![Brasa Burger Preview](img/preview.png)
+![Brasa Burger Preview](img/image.png)
 
 ---
 
