@@ -20,7 +20,7 @@ O Brasa Burger é um projeto visual com foco em:
 ## Como executar
 
 1. Clone ou baixe este repositório.
-2. Abra o arquivo `inhdex.html` no navegador.
+2. Abra o arquivo `index.html` no navegador.
 
 Também é possível usar a extensão **Live Server** no Visual Studio Code para visualizar a página com atualização automática.
 
@@ -28,7 +28,7 @@ Também é possível usar a extensão **Live Server** no Visual Studio Code para
 
 ```text
 .
-├── inhdex.html   # Página principal da landing page
+├── index.html   # Página principal da landing page
 └── Readme.md     # Documentação do projeto
 ```
 
