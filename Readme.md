@@ -276,7 +276,7 @@ Informações como produtos, preços, avaliações, horários, localização e c
 
 **Alderlan Corrêa**
 
-Estudante de Engenharia da Computação e desenvolvedor Front-end em formação.
+Estudante de Engenharia da Computação e desenvolvedor Fullstack em formação.
 
 > **Aprendendo, construindo e inovando.**
 
